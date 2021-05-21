@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">FoodyAr</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="recipes_fragment">Recipes</string>
+    <string name="favorite_recipes_fragment">Favorites</string>
+    <string name="food_joke_fragment">Food Joke</string>
+
+    // Bottom Sheet
+    //category
+    <string name="meal_type">الوصفات</string>
+    <string name="main_course">كل الوصفات</string>
+    <string name="side_dish">البيتزا</string>
+    <string name="dessert">المقبلات</string>
+    <string name="bread">معجنات</string>
+    <string name="breakfast">فطور رمضان</string>
+    <string name="soup">الشوربة</string>
+    <string name="beverage">أكلات رجيم</string>
+
+    <string name="snack">Snack</string>
+    <string name="drink">Drink</string>
+    <string name="marinade">Marinade</string>
+    <string name="fingerfood">FingerFood</string>
+    <string name="appetizer">Appetizer</string>
+    <string name="salad">السلطات</string>
+
+    // cuisine
+
+    <string name="gluten_free">كل الأطباق</string>
+    <string name="ketogenic">عربي</string>
+    <string name="vegetarian">مغربي</string>
+    <string name="vegan">هندي</string>
+    <string name="pescetarian">سعودي</string>
+    <string name="paleo">آسيوي</string>
+    <string name="primal">غربي</string>
+    <string name="whole30">إيطالي</string>
+    <string name="diet_type">الأطباق</string>
+
+    <string name="mxeckey">مكسيكي</string>
+    <string name="shamy">شامي</string>
+
+
+    //button name
+    <string name="apply">بحث</string>
+
+    <string name="search">Search</string>
+
+    <string name="dairy_free">Dairy Free</string>
+    <string name="save_to_favorites">Save to Favorites</string>
+    <string name="no_favorite_recipes">No Favorite Recipes.</string>
+    <string name="delete_favorite_menu">Delete Favorite Menu</string>
+    <string name="delete_all">Delete All</string>
+
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </string>
+    <string name="share">Share</string>
+
+
+</resources>

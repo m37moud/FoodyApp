@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="chef_names">
+        <item>الشيف حسن</item>
+        <item>الشيف شربيني</item>
+    </string-array>
+    <string-array name="chef_quotes">
+        <item>”يا تكاته يا حركاته“</item>
+        <item>”ورقة وقلم يا ست الكل“</item>
+    </string-array>
+
+    <string-array name="cuisines">
+        <item>كل الأطباق</item>
+        <item>مصري</item>
+        <item>عربي</item>
+        <item>مغربي</item>
+        <item>هندي</item>
+        <item>سعودي</item>
+        <item>آسيوي</item>
+        <item>غربي</item>
+        <item>إيطالي</item>
+        <item>شامي</item>
+        <item>تركي</item>
+        <item>خليجي</item>
+        <item>أوروبي</item>
+        <item>عالمي</item>
+        <item>أمريكي</item>
+        <item>مكسيكي</item>
+        <item>مطابخ أخري</item>
+    </string-array>
+    <string-array name="categories">
+        <item>كل الوصفات</item>
+        <item>معجنات</item>
+        <item>البيتزا</item>
+        <item>السلطات</item>
+        <item>الشوربة</item>
+        <item>المقبلات</item>
+        <item>أكلات رجيم</item>
+        <item>فطور رمضان</item>
+
+    </string-array>
+
+</resources>
